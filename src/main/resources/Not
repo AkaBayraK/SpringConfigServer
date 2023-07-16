@@ -1,0 +1,12 @@
+
+application.properties  notlar
+
+#spring.profiles.active: Config dosyalar\u0131n\u0131n nas\u0131l sunulaca\u011F\u0131n\u0131 gösterir. Native diyerek configlerimizin local\u2019de oldu\u011Funu söylüyoruz.
+
+#eureka.client.serviceUrl.defaultZone: Kay\u0131t olaca\u011F\u0131m\u0131z Discovery Server\u2019in adresi
+
+
+PostMan GET
+
+http://localhost:5859/api-gateway/default
+
